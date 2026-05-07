@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import { Context } from './Context';
+import { Context } from './context';
 import watch1 from '/watch1.jpg';
 import watch2 from '/watch2.jpg';
 import watch3 from '/watch3.jpg';
